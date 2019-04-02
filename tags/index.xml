@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Cosotec</title>
+    <link>http://www.example.com/tags/</link>
+    <description>Recent content in Tags on Cosotec</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-DE</language>
+    <managingEditor>nico.matthies@cosotec.com (Nico M)</managingEditor>
+    <webMaster>nico.matthies@cosotec.com (Nico M)</webMaster>
+    <copyright>(c) 2019 Cosotec</copyright>
+    
+	<atom:link href="http://www.example.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>
